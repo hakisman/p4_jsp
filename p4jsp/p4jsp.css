@@ -1,0 +1,98 @@
+BODY{
+	margin-left : 0px;
+	margin-top : 0px;
+}
+
+TD{
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu A{
+	color : #ff9900;
+	text-decoration: none; 
+}
+
+.menulinks{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	line-height : 20px;
+}
+
+.main_h{
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color : White;
+	font-weight : bolder;
+	background-color : #6699CC;
+}
+
+A{
+	color : #0000CC;
+	text-decoration: none; 
+}
+
+H1{
+	color : #ffb20d;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	padding-top : 10px;
+}
+
+H2{
+	color : #0000CC;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 16px;
+}
+
+H3{
+	color : #ffb20d;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 14px;
+}
+
+.blue{
+	color : #0000CC;
+}
+
+.yellow{
+	color : #ff9900;
+}
+
+.small{
+		font-size : 10px;
+}
+
+blockquote{
+	margin-left : 0px;
+	padding-left : 0px;
+}
+
+.diffadd{
+	color: blue;
+	font-family: fixed;
+	font-size: 12pt;
+	white-space: pre;
+}
+
+.diffsub{
+	color: red;
+	font-family: fixed;
+	text-decoration: line-through;
+	font-size: 12pt;
+	white-space: pre;
+}
+
+.diffmacro{
+	color: orange;
+	font-family: fixed;
+	font-size: 12pt;
+	white-space: pre;
+}
+
+.diff{
+	color: black;
+	font-family: fixed;
+	font-size: 12pt;
+	white-space: pre;
+}
